@@ -17,26 +17,26 @@ The application is built using:
 ## User Guide
 This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. Capabilities not yet implemented are either noted with the screenshot or denoted by the words "Mock Up" by the title. 
 
-<img src="/images/Bowfolios-Current.gif">
+<img src="./images/Bowfolios-Current.gif">
 
 ### Landing Page
-<img src="/images/onboarding.gif">
+<img src="./images/onboarding.gif">
 
 ### Projects
 
-<img src="/images/projects.png">
+<img src="./images/projects.png">
 
 
 ### Add Project
 
-<img src="/images/addProject.png">
+<img src="./images/addProject.png">
 
 ### Interests
 
-<img src="/images/interests.png">
+<img src="./images/interests.png">
 
 ### Profile
-<img src="/images/profile.gif">
+<img src="./images/profile.gif">
 
 ## Developer Guide
 1. Download a copy of bowfolios-mobile. You can download either using Github Desktop (recommended) or by extracting the .zip. 
