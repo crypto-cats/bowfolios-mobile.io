@@ -18,6 +18,7 @@ The application is built using:
 This section provides a walkthrough of our interface and its current capabilities. The screenshots show the current state of the project. Capabilities not yet implemented are either noted with the screenshot or denoted by the words "Mock Up" by the title. 
 
 <img src="./images/Bowfolios-Current.gif">
+The navigation tabs will be changed in Milestone 2 (eg. Home will be removed).
 
 ### Landing Page
 <img src="./images/onboarding.gif">
