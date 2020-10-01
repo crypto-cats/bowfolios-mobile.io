@@ -68,16 +68,15 @@ The goal of Milestone 1 was to complete the UI implementation for the screens.
 
 **To see which issues have been finished during M1, please click: [Milestone 1](https://github.com/crypto-cats/bowfolios-mobile/projects/2)**
 
-
-### Milestone 2: Database
-The goal of Milestone 2 was to integrate the database so the pages read in from Firebase.
-- Profile
+### Milestone 2: Database Integrations
+The goal of Milestone 2 was to integrate the database so the pages read in from Firebase. The following pages now read in the data:
 - Signin / Registration works
 - Interests
 - Projects
 - Prople
+- Add Project
 
-**To see which issues have been finished during M2, please click: [Milestone 1](https://github.com/crypto-cats/bowfolios-mobile/projects/3)**
+**To see which issues have been finished during M2, please click: [Milestone 2](https://github.com/crypto-cats/bowfolios-mobile/projects/3)**
 
 ## Developers
 Here are the people who worked on this project:
