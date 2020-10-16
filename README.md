@@ -18,8 +18,6 @@ This section provides a walkthrough of our interface and its current capabilitie
 
 <img src="./images/Bowfolios-Current.gif">
 
-The navigation tabs will be changed in Milestone 2 (eg. Home will be removed).
-
 ### Landing Page
 <img src="./images/onboarding.gif">
 
