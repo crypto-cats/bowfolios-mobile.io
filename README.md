@@ -43,12 +43,14 @@ The navigation tabs will be changed in Milestone 2 (eg. Home will be removed).
 ### Edit Profile
 <img src="./images/editProfile.gif">
 
-### Sign Out
+### Sign in Redirection
 <img src="./images/signout.gif">
 
 
 ## Developer Guide
-1. Download a copy of bowfolios-mobile. You can download either using Github Desktop (recommended) or by extracting the .zip. 
+1. Download a copy of bowfolios-mobile. You can download either using Github Desktop (recommended
+) or by extracting the .zip. As the repo is currently private, please contact one of the
+ developers to get the download.
 
 2. Run ``npm install`` to install the dependencies.
 
