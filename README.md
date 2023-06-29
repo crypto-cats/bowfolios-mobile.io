@@ -101,9 +101,9 @@ Here are the people who worked on this project:
 
 Eric Rivera: Find his Github <a href = "https://github.com/eric5rivera">here.</a> 
 
-Jennifer Hsu: Find her Github <a href = "http://jhsup.github.io/">here.</a> 
+Jennifer Hsu: Find her Github <a href = "http://github.com/jhsuP">here.</a> 
 
-Pauline Peihan Wu: Find her Github <a href = "https://github.com/Pauline-Peihan-Wu/">here.</a> 
+Pauline Peihan Wu: Find her Github <a href = "https://github.com/Pauline-Peihan-Wu">here.</a> 
 
 
 
